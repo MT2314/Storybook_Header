@@ -1,5 +1,6 @@
 
-// Button.stories.ts|tsx  12123
+// Button.stories.ts|tsx  
+// Onblur event handle
 
 import type { Meta, StoryObj } from '@storybook/react';
 
